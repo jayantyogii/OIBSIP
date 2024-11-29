@@ -1,2 +1,2 @@
-These are 5 tasks which i did in my 5 week internship with Oasis Infobytes
+These are 5 tasks which i did in my 4 week internship with Oasis Infobytes
 This 4-week data analytics internship offers intensive training in Python programming and real-world data projects. Participants gain hands-on experience in data collection, cleaning, and analysis, as well as building predictive models. The program is designed to provide essential skills for launching a successful career in data analytics
